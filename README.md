@@ -1,1 +1,1 @@
-# dashboard-hut-bcn
+# dashboard-hut-barcelona
